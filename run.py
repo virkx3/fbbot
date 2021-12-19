@@ -15,7 +15,7 @@ except ImportError:
    exit("try again use: python3 run.py or python run.py")
 """
 Project : Bot Facebook
-Author  : FahmiApz
+Author  : Virk
 Update  : 15 Desember 2021
 """
 init(autoreset=True)
